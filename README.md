@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emma_Elkan-blue)](https://www.linkedin.com/in/emma-elkan-tester/) [![Twitter](https://img.shields.io/badge/Twitter-@Em_Elkan-blue)](https://twitter.com/eM_Elkan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emma_Elkan-darkred)](https://www.linkedin.com/in/emma-elkan-tester/) [![Twitter](https://img.shields.io/badge/Twitter-@Em_Elkan-darkred)](https://twitter.com/eM_Elkan)
 
 <img src="https://github.com/EmElkan/EmElkan/blob/master/skelly_banner.gif" alt="Banner that says Emma Elkan - A cartoon dog pops up and down">
 <!--
